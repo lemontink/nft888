@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x71731033FC0F9bE7BFc57ad288BbF10e1B3b7596",
+  "SCAN_LINK": "https://etherscan.io/address/0x71731033fc0f9be7bfc57ad288bbf10e1b3b7596",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 137
+  },
+  "NFT_NAME": "ag wolf nft",
+  "SYMBOL": "wolf",
+  "MAX_SUPPLY": 1200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/from-hell-they-came",
+  "SHOW_BACKGROUND": true
+}
